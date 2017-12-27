@@ -1,0 +1,11 @@
+
+{
+  "name": "truck",
+  "version": "0.0.62",
+  "title": "Truck",
+  "author": "KatzSmile update by d3x0r",
+  "contact": "",
+  "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=51610",
+  "description": "Add a truck to the game.",
+  "factorio_version":"0.16"
+}
